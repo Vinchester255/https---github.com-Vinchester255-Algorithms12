@@ -1,0 +1,3 @@
+C:/c++/Algorithms/Homework/12/build/CMakeFiles/Homework.dir
+C:/c++/Algorithms/Homework/12/build/CMakeFiles/edit_cache.dir
+C:/c++/Algorithms/Homework/12/build/CMakeFiles/rebuild_cache.dir
